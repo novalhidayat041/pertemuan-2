@@ -1,5 +1,5 @@
 fun main(array: Array<String>) {
-    //MutableList adalah Daftar dengan operasi penulisan khusus daftar
+    //MutableList. adalah Daftar dengan operasi penulisan khusus daftar
     val numbers = mutableListOf(1, 2, 3, 4)
     numbers.add(5)
     numbers.removeAt(1)
