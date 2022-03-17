@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
     //Conditions
     if (15 > 5)
         println("True")
-    println("The program continues here...")
+    println("The .program continues here...")
     //If - Else
     val a:Int = 5
     val b:Int = 2
