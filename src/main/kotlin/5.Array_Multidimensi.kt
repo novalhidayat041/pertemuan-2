@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    //N-dimensional arrays
+    //N-dimensional arrays.
     var cinemas = arrayOf<Array<Array<Int>>>()
     for (i in 0..2) {
         var cinema = arrayOf<Array<Int>>()
