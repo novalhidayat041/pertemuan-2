@@ -1,4 +1,4 @@
-//Penggunaan arrayOf() untuk membuat array:
+//Penggunaan arrayOf() untuk membuat array,:
 fun main(args: Array<String>) {
     //Array
     var arrA = arrayOf<Int>()
