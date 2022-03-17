@@ -1,5 +1,5 @@
 fun main() {
-    //Set<T> menyimpan elemen unik; urutan mereka umumnya tidak terdefinisi.
+    //Set<T> .menyimpan elemen unik; urutan mereka umumnya tidak terdefinisi.
     val numbers = setOf(1, 2, 3, 4)
     println("Number of elements: ${numbers.size}")
     if (numbers.contains(1)) println("1 is in the set")
